@@ -19,3 +19,9 @@
 - condaパッケージのインストール
 
     ``` conda install パッケージ名```
+
+
+- 仮想環境の削除
+
+    ``` conda remove -n 環境名 --all```
+
